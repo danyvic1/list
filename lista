@@ -1,10 +1,25 @@
-#EXTM3U#EXTM3U#EXTM3U
+#EXTM3U#EXTM3U#EXTM3U#EXTM3U
 
 #EXTINF:-1, Discovery Channel
-https://ul.cdn946.net:8443/hls/9s9cfpm1twdmlv5.m3u8?s=qpoVhiiD5T7ozdxtH_XYRA&e=1596008849
+https://edge7-ccast-hr.cvattv.com.ar//live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD-video=1344000-audio_20001=144800.m3u8
 
 #EXTINF:-1, Discovery Channel 2
-https://u73165.cdn884.net:8443/hls/5vh0n.m3u8?s=DYhD97_rlegEPLbGinosAQ&e=1596011517
+https://u65464.cdn884.net:8443/hls/5vh0n.m3u8?s=yOc_Igf8k6H1EWMEscD72g&e=1596074467
+
+#EXTINF:-1, Discovery H&H
+https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=DyAPyJFlGyPjIeP6U32m5Q&e=1596072503
+
+#EXTINF:-1, Discovery H&H2
+https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=nqpmBUVsi9m_kALWexcglQ&e=1596071364
+
+#EXTINF:-1, Animal Planet
+https://ul.cdn946.net:8443/hls/vrargf1v.m3u8?s=z59g9aRcrRiUjYHYiJer2A&e=1596072006
+
+#EXTINF:-1, A&E
+https://ul.cdn946.net:8443/hls/yxvanb.m3u8?s=8P_iuBEy5MNq-zLHovSgHw&e=1596072958
+
+#EXTINF:-1, Nat Geo Wild
+https://ul.cdn946.net:8443/hls/2dmvzwu0ccwni.m3u8?s=RwCCiT1zo4ZWXZKaq6fHLA&e=1596070923
 
 #EXTINF:-1, Discovery H&H
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Ph72E8D0HMcOsvfRiNZaYQ&e=1595994255
