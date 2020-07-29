@@ -1,7 +1,19 @@
-#EXTM3U
+#EXTM3U#EXTM3U
 
 #EXTINF:-1, Discovery Channel
-https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=n3FT8LADoSewPjz_qnwCfg&e=1595992016
+https://ul.cdn946.net:8443/hls/9s9cfpm1twdmlv5.m3u8?s=qpoVhiiD5T7ozdxtH_XYRA&e=1596008849
 
 #EXTINF:-1, Discovery H&H
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Ph72E8D0HMcOsvfRiNZaYQ&e=1595994255
+
+#EXTINF:-1, Discovery H&H2
+https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=0RRiXH8pxSI0mJ-xoYOcWQ&e=1596008449
+
+#EXTINF:-1, Animal Planet
+https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=emdCeY_xOTl8KMo9HFY6pw&e=1596005664
+
+#EXTINF:-1, A&E
+https://ul.cdn946.net:8443/hls/ki4gdapom.m3u8?s=KqfAdhGXcOqxARNQJX-CeQ&e=1596006027
+
+#EXTINF:-1, Nat Geo Wild
+https://ul.cdn946.net:8443/hls/2dmvzwu0ccwni.m3u8?s=_2qWXtRV8omtTS0vR0ngqw&e=1596009288
